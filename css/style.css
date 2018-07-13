@@ -75,3 +75,17 @@ span {
     background-color: rgb(35, 31, 32);
     color: pink;
 }
+
+a:link {
+    background-color: rgb(35, 31, 32);
+    color: pink;
+}
+
+a:visited {
+    background-color: rgb(35, 31, 32);
+    color: grey;
+}
+a:hover {
+    background-color: rgb(35, 31, 32);
+    color: white;
+}
